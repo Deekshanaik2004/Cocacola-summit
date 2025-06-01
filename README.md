@@ -1,6 +1,5 @@
 ##  Coca-Cola Summit CGI Concept
 
-![Coca-Cola Can CGI](./assets/coca-cola-summit.png)
 
 This high-resolution CGI artwork was generated using OpenAI's DALL·E model via ChatGPT.  
 It features a Coca-Cola Classic can on a mountain peak, with the drink flowing like a luminous waterfall under a moonlit sky.
